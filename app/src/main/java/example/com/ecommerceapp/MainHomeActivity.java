@@ -19,11 +19,11 @@ import me.relex.circleindicator.CircleIndicator;
     private static ViewPager mPager;
     private static int currentPage = 0;
     private static final Integer[] images= {
-            R.drawable.laptop,
-            R.drawable.chairs,
-            R.drawable.dgcam,
-            R.drawable.food,
-            R.drawable.device};
+            R.drawable.first,
+            R.drawable.second,
+            R.drawable.third,
+            R.drawable.fourth,
+            R.drawable.fifth};
     private ArrayList<Integer> imgArray = new ArrayList<Integer>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {

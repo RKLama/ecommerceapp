@@ -13,6 +13,6 @@
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:layout_gravity="center"
-        android:src="@drawable/laptop"
+        android:src="@drawable/first"
         android:scaleType="centerCrop"/>
 </LinearLayout>
